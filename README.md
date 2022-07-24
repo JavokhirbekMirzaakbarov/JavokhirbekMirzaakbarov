@@ -1,5 +1,5 @@
 
-#👋I am Javokhirbek Mirzaakbarov
+#**👋I am Javokhirbek** Mirzaakbarov
 **Software Engineer | Frontend Developer | Computer Science student at IUT**
 
 *ReactJS, Redux/Redux-thunk, JavaScript, TypeScript, React-testing(JEST), Agile, JIRA,  Express JS, NextJS, GraphQL, Git/GitHUb*
