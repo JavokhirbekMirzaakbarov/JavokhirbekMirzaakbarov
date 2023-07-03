@@ -1,14 +1,14 @@
 
 #**👋I am Javokhirbek Mirzaakbarov**
-**Software Engineer | Frontend Developer | Computer Science student at IUT**
+**Software Engineer | Frontend Developer | Bachelor in Computer Science student**
 
-*ReactJS, Redux/Redux-thunk, JavaScript, TypeScript, React-testing(JEST), Agile, JIRA,  Express JS, NextJS, GraphQL, Git/GitHUb*
+*ReactJS, Redux, JavaScript, TypeScript, RTL(JEST), Agile, JIRA, NodeJS, ExpressJS, NextJS, GraphQL, Git/GitHUb*
 
-- 🔭 I’m currently working on React projects.
-- 🌱 I’m currently learning NextJS and CleanCode.
-- 👯 I’m looking to collaborate on NestJS.
-- 💬 Ask me about frontend technologies, algorithms.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/javokhirbek-mirzaakbarov/), [Telegram](https://t.me/Code_Breaker_2000)
+- 🔭 I’m currently working on frontend projects.
+- 🌱 I’m currently learning NestJS and AWS.
+- 👯 I’m looking to collaborate on ReactJS.
+- 💬 Ask me about frontend technologies, Computer Science
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/javokhirbek-mirzaakbarov/), [Telegram](https://t.me/JavokhirbekMirzaakbarov)
 - ⚡ Fun fact: single😉
 
 
